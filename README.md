@@ -2,7 +2,7 @@
 
 ## What was it?
 
-On November 21, 2014, Jon Friskics and Alyssa Nicoll broadcast a special live-coding edition of Code School Live.  During the 90 minute broadcast, they started building a simple Swift app called NoteApp.
+On November 21, 2014, [Jon Friskics](http://twitter.com/jonfriskics) and [Alyssa Nicoll](http://twitter.com/alyssanicoll) broadcast a special live-coding edition of Code School Live.  During the 90 minute broadcast, they started building a simple Swift app called NoteApp.
 
 ## What are these folders?
 
