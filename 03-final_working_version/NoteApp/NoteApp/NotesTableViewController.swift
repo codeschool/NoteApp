@@ -67,7 +67,7 @@ class NotesTableViewController: UITableViewController, AddNoteViewControllerDele
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCellWithIdentifier("noteCell", forIndexPath: indexPath) as UITableViewCell
         
-        cell.textLabel.text = notes[indexPath.row] as NSString
+        cell.textLabel?.text = notes[indexPath.row] as NSString
 
         return cell
     }
